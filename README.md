@@ -1,2 +1,2 @@
-# oshizu-san.github.io/sample
+# oshizu-san.github.io
 
